@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of great troubles pretended against the realme by a number of seminarie priests and Iesuists, sent, and very secretly dispersed in the same, to worke great treasons vnder a false pretence of religion with a prouision very necessarie for remedie thereof. Published by this her Maiesties proclamation.</title>
+            <title>Proclamations. 1592-10-18</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1591</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21879</idno>
+            <idno type="STC">STC 8208</idno>
+            <idno type="STC">ESTC S100669</idno>
+            <idno type="EEBO-CITATION">99836499</idno>
+            <idno type="PROQUEST">99836499</idno>
+            <idno type="VID">777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 777)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 421:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of great troubles pretended against the realme by a number of seminarie priests and Iesuists, sent, and very secretly dispersed in the same, to worke great treasons vnder a false pretence of religion with a prouision very necessarie for remedie thereof. Published by this her Maiesties proclamation.</title>
+                  <title>Proclamations. 1592-10-18</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1591.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Richmond the xviii. day of October, 1591. ..</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England --  Early works to 1800.</term>
+               <term>Jesuits --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:777:1" rendition="simple:additions"/>
+            <pb facs="tcp:777:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF great troubles pretended againſt the Realme by a number of Semi<g ref="char:EOLhyphen"/>narie Prieſts and Ieſuiſts, ſent, and very ſecretly diſperſed in the ſame, to worke great Treaſons vn<g ref="char:EOLhyphen"/>der a falſe pretence of Religion, With a prouiſion very neceſſarie for remedie thereof. Publiſhed by this her Maieſties Proclamation.</p>
+            <p>Imprinted at London by the Deputies of Chriſtopher Barker Printer to the Queenes moſt excellent Maieſtie. 1591.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:777:2"/>
+            <pb facs="tcp:777:2"/>
+            <head>A Declaration of great troubles pre<g ref="char:EOLhyphen"/>tended againſt the Realme by a number of Seminarie Priests and Ieſuists, ſent, and verie ſecretely diſperſed in the ſame, to worke great treaſons vnder a falſe pretence of religio<g ref="char:cmbAbbrStroke">̄</g>, with a prouiſion very neceſſary for remedy therof. Pub<g ref="char:EOLhyphen"/>liſhed by this her Maiesties <hi>Proclamation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we haue had proba<g ref="char:EOLhyphen"/>ble cauſe to haue thought, that now towards the end of xxxiij. yeeres, being the time wherein almighty God, hath continually preſerued vs in a peaceable poſſeſſion of our kingdomes, the former vio<g ref="char:EOLhyphen"/>lence and rigour of the malice of our enemies (ſpe<g ref="char:EOLhyphen"/>cially of the King of Spaine) woulde after his con<g ref="char:EOLhyphen"/>tinuance in ſeeking to trouble our eſtate, without any iuſt cauſe ſo many yeeres, haue waxed faint and decayed in him, and all others depending on him, and bene altered into ſome peaceable humor, meete to haue diſpoſed him to liue in concord with vs, and other Chriſtian Princes his neighbors, and by ſuch good means to eſtabliſh an vniuerſal peace in Chri<g ref="char:EOLhyphen"/>ſtendome nowe by his warres onely, and no other<g ref="char:EOLhyphen"/>wiſe diſturbed: yet to the contrary wee finde it, by
+<pb n="2" facs="tcp:777:3"/>his preſent mightie actions, ſo great as hee neuer before this time attempted the like. Whereby it ſo pleaſeth the Almightie God of Hoſtes, (as wee are perſwaded) to ſuffer the ruine or correction of ſuch as will not be content to liue in peace with their owne: And to that ende, to permit the ſaide King now in this his declined yeeres meeteſt for peace, and when he ought to be ſatisfied, without ſeeking of more kingdomes, by violence and armes (ſeeing hee poſſeſſeth at this day, more Crownes, King<g ref="char:EOLhyphen"/>domes and Countries, and more earthly wealth then any of his progenitours, or any other Prince Chriſtian euer had) nowe to beginue a moſt vniuſt and a dangerous warre for al Chriſtendome againſt the preſent French King. As in like manner appea<g ref="char:EOLhyphen"/>red he meant two yeares paſt to haue doone the like againſt vs, by inuading of our Kingdomes, in the very time of a treatie of peace with vs. Whereof God gaue him and his whole army a iuſt cauſe of repentance.</p>
+            <p n="1">1 And therefore ſeeing wee doe now manifeſtly vnderſtand, that he hath of late (to fortifie theſe his ſtrange violent attempts with ſome newe coulour) procured a <hi>Milanois</hi> a vaſſaile of his owne to bee ex<g ref="char:EOLhyphen"/>alted into the Papacie of Rome, and hath ſeduced him, without conſent of the College of Cardinals to exhauſt the treaſures of the Church, and there<g ref="char:EOLhyphen"/>with to leuie forces in Italie (which had no ſounde of warre in it theſe many yeeres) and in many other places, to be guyded by his Nephewe, and ſent to inuade France, a kingdome that hath bene alwayes a maintainer of that Church in al their oppreſſions. And for that this warre, ſo generally, and mightily
+<pb n="3" facs="tcp:777:3"/>againſt France, concerneth our eſtate very greatly, and cannot but be directly very daungerous to our dominions: And that it is alſo knowen to vs, that by ſundry meanes, beſides the preparation of other great forces for the Seas, againſt our Crowne and Dominions, the ſame bee greater for this yeere to come, then euer hee had before. And for furthe<g ref="char:EOLhyphen"/>rance thereof, hath alſo lately by coulour of this his peculiar Popes authoritie, which he hath now hanging at his girdle, practiſed with certaine prin<g ref="char:EOLhyphen"/>cipall ſeditious heades, being vnnaturall Subiects of our Kingdome (but yet very baſe of birth) to ga<g ref="char:EOLhyphen"/>ther together with great labours vpon his charges, a multitude of diſſolute yong men, who haue part<g ref="char:EOLhyphen"/>ly for lacke of liuing, partly for crimes committed, become Fugitiues, Rebelles, and Traitours, and for whome there are in Rome, and Spaine, and other places certaine receptacles made to liue in, and there to bee inſtructed in Schoole pointes of fedition, and from thence to bee ſecretely and by ſtealth conueyed into our Dominions, with ample authoritie from Rome, to mooue, ſtirre vp, and perſwade as many of our Subiectes, as they dare deale withall, to renounce their naturall allegeance due to vs and our Crowne, and vpon hope by a Spaniſh Inuaſion to bee enriched and endowed with the Poſſeſſions and Dignities of our other good Subiectes: For which purpoſe they do binde our Subiects (with whom they practiſe) by Othes, yea by Sacramentes to forſweare their naturall al<g ref="char:EOLhyphen"/>leageance to vs, and yeelde their obedience wyth all their powers to this King of Spaine and to aſſiſte his forces. And for the more forcible attraction of
+<pb n="4" facs="tcp:777:4"/>theſe vnnaturall people (being weake of vnderſtan<g ref="char:EOLhyphen"/>ding) to this their bend, theſe Seedemen of treaſon bring certaine Bulles from the Pope, ſome of In<g ref="char:EOLhyphen"/>dulgences pretending to promiſe Heauen to ſuch as will yeelde: and ſome of curſinges, threatning damnation and Hell, to ſuch as ſhall not yeelde to their perſwaſions. And though theſe manner of Popiſh attempts, haue bene of long time vſed, yet in ſome ſort alſo they haue bene impeached, by di<g ref="char:EOLhyphen"/>rect execution of Lawes againſt ſuch Traitours for meere treaſons, and not for any pointes of Religi<g ref="char:EOLhyphen"/>on, as their fautours woulde coulour falſely their actions, which are moſt manifeſtly ſeene and heard at their arraignements, howe they are neither exe<g ref="char:EOLhyphen"/>cuted, condemned, nor endited, but for high Treaſons, affirming, that amongeſt other things, they will take parte wyth anie armie ſent by the Pope againſt vs and our Realme. And of this that none doe ſuffer death for matter of Religi<g ref="char:EOLhyphen"/>on, there is manifeſt proofe, in that a number of men of wealth in our Realme profeſſing contra<g ref="char:EOLhyphen"/>ry Religion, are knowen not to bee impeached for the ſame, eyther in their liues, landes, or goods, or in their liberties, but onely by payment of a pecuniary ſumme, as a penaltie for the time that they doe refuſe to come to Church, which is a moſt manifeſt courſe to falſifie the ſlaunderous ſpeeches and Libelles of the Fugitiues abroade. Yet now it is certainely vnderſtoode, that theſe heades of theſe dennes and receptacles, which are by the traitours called Seminaries, and Colledges of Ieſuits, haue very lately aſſured the King of Spaine, that though heretofore he had no good ſucceſſe with his great
+<pb n="5" facs="tcp:777:4"/>forces, againſt our Realme, yet if now he will once againe renewe his warre this next yeere, there ſhall bee found ready ſecretly within our Dominions, many thouſands (as they make their accompt for their purpoſe) of able people that will bee ready to aſſiſt ſuch power as he ſhall ſet on land, and by their vaunting, they doe tempt the King hereto, who o<g ref="char:EOLhyphen"/>therwiſe ought in wiſedome, and by his late expe<g ref="char:EOLhyphen"/>rience conceiue no hope of any ſafe landing here: ſhewing to him in Spaine, by the ſpeciall informa<g ref="char:EOLhyphen"/>tion of a Schooleman named <hi>Parſons,</hi> arrogating to himſelfe the name of the King Catholikes Con<g ref="char:EOLhyphen"/>feſſour, and to the Pope at Rome, by an other Scholler called <hi>Allen,</hi> now for his treaſons honou<g ref="char:EOLhyphen"/>red with a Cardinalles Hatte, certayne ſkroles or beadrolles of names, of men dwelling in ſundry partes of our Countries, as they haue imagined them, but ſpecially in the maritimes, with aſſu<g ref="char:EOLhyphen"/>rance, that theſe their Seedmen named Seminaries, Prieſtes, and Ieſuites are in the ſundry partes of the Realme, ſecretly harboured, hauing a great part of them beene ſent within theſe x. or xii. moneths, and ſhall bee ready to continue their reconciled people in their lewde conſtancie to ſerue their pur<g ref="char:EOLhyphen"/>poſe both with their forces, and with their trayte<g ref="char:EOLhyphen"/>rous enterpriſes when the Spaniſh power ſhall be ready to land, vpon which their impudent aſſerti<g ref="char:EOLhyphen"/>ons to the Pope, and to the king of Spaine (though they knowe a great part thereof to bee falſe) they haue nowe very lately aduertiſed into diuers partes by their ſecret meſſengers, whereof ſome are alſo very lately taken, and haue confeſſed the ſame, that the King vpon their informations and requeſtes
+<pb n="6" facs="tcp:777:5"/>hath promiſed to imploy all his forces that he can, by ſea this next yeere, to attempt once againe the inuaſion of this Realme: Wherewith becauſe ſome of his wiſeſt Counſellers doubt that hee ſhall not preuaile, therefore hee is otherwiſe perſwaded, that if that his purpoſe ſhall not take place here, yet the ſame may bee well employed againſt France or the Lowe Countries, or againſt ſome parte of Scotland, into which Realme there hath alſo ſome number of the like broode beene lately ſent.</p>
+            <p n="2">2 Wherefore conſidering that theſe the intenti<g ref="char:EOLhyphen"/>ons of the King of Spaine, are to vs in this ſort made very manifeſt, And although we doubt not, but almightie God, the defender of all iuſt cauſes, will (as alway hitherto hee hath) make the ſame voyde: Yet it is our duetie as being the ſupreme Gouernor vnder his Almightie hand, to vſe all ſuch iuſt and reaſonable meanes as are giuen to vs, and therewith to concurre or rather attend vpon his moſt gra<g ref="char:EOLhyphen"/>cious fauour by the helpe of our faythfull Sub<g ref="char:EOLhyphen"/>iectes, both to encreaſe our forces to the vtter<g ref="char:EOLhyphen"/>moſt of their powers, and by execution of Lawes, and by all other politike ordinaunces to impeach the foreſayde practiſes of theſe ſeditions and trea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p n="3">3 And before all other things, wee doe firſt re<g ref="char:EOLhyphen"/>quire of the Eccleſiaſticall ſtate, that the like dili<g ref="char:EOLhyphen"/>gence bee vſed by the godly Miniſters of the Church, by their diligent teaching and example of life, to retaine our people ſtedfaſtly in the profeſſion of the Goſpell, and in their dueties to almightie God and vs, as it is ſeene a fewe Capitall heades of
+<pb n="7" facs="tcp:777:5"/>treaſons are continually occupyed with their Se<g ref="char:EOLhyphen"/>minaries, in withdrawing of a multitude of igno<g ref="char:EOLhyphen"/>rants to their enchantments.</p>
+            <p n="4">4 And ſecondly, for hauing of ſufficient forces in readineſſe by Sea, we hope by Gods goodneſſe, and with the helpe of our good Subiects, to haue as great, or greater ſtrength on the Seas then at any time we haue had, to withſtand theſe puffed vaunts from Spaine: And for our forces by land, our truſt is, that ſeeing we haue diſtributed our whole realme into ſeuerall charges of Lieutenancies, that they by themſelues where they may bee perſonally preſent, and otherwiſe by their deputies and aſſiſtants of o<g ref="char:EOLhyphen"/>ther our Miniſters, will now after the generall Mu<g ref="char:EOLhyphen"/>ſters which haue ben by our ſpeciall order lately ta<g ref="char:EOLhyphen"/>ken, conſider of all things requiſite to performe, and make perfect all defects that ſhall appeare ne<g ref="char:EOLhyphen"/>ceſſarie, to make all the bandes both of horſemen and footemen fully furniſhed with armour, wea<g ref="char:EOLhyphen"/>pons, and munition, and with all other things requi<g ref="char:EOLhyphen"/>ſite for their conduction to the places of ſeruice, &amp; there alſo to continue as time ſhall require to de<g ref="char:EOLhyphen"/>fend their Countrey. And ſo we doe moſt earneſt<g ref="char:EOLhyphen"/>ly require and charge all manner of our Subiectes, with their hands, purſes, and aduiſes, yea all and eue<g ref="char:EOLhyphen"/>ry perſon of euery eſtate, with their prayers to God, to moue him to aſſiſt this ſo naturall, honourable, and profitable a ſeruice being onely for defence of their naturall countrey, their wiues, families, chil<g ref="char:EOLhyphen"/>dren, lands, goods, liberties, and their poſterities a<g ref="char:EOLhyphen"/>gainſt rauening ſtrangers, wilfull deſtroyers of their Natiue countrey and monſtrous traytours.</p>
+            <p n="5">5 And laſtly, to withſtand and prouide ſpeedy
+<pb n="8" facs="tcp:777:6"/>remedy againſt other fraudulent attempts of the Se<g ref="char:EOLhyphen"/>minaries, Ieſuits, &amp; Traitors, without the which (as it appeareth) the forces ſhould not be now vſed, the ſame being wrought onely by falſehoode, by hypo<g ref="char:EOLhyphen"/>criſie, and by vnderminings of our good Subiectes vnder a falſe colour and face of holineſſe, to make breaches in mens and womens conſciences, and ſo to traine them to their treaſons, and that with ſuch a ſecrecie by the harboring of the ſaide traiterous meſſengers in obſcure places, as without very dili<g ref="char:EOLhyphen"/>gent and continuall ſearch to be made, and ſeuere orders executed, the ſame will remaine and ſpred it ſelfe as a ſecret infection of treaſons in the bowels of our Realme, moſt dangerous, yea, moſt reprochfull to be ſuffered in any well ordered common weale: Therefore wee haue determined by aduiſe of our Counſel, to haue ſpeedily certaine Commiſſioners, men of honeſty, fidelitie, and good reputation to be appointed in euery Shire, Citie, and Port townes within our realm, to inquire by al good means what perſons are by their behauiours or otherwiſe wor<g ref="char:EOLhyphen"/>thy to be ſuſpected to be any ſuch perſons, as haue bene ſent, or that are imployed in any ſuch perſwa<g ref="char:EOLhyphen"/>ding of our people or of any reſiding within our realm to treaſon, or to moue any to relinquiſh their allegeance to vs, or to acknowledge any kind of o<g ref="char:EOLhyphen"/>bedience to the Pope or to the King of Spaine, and alſo of other perſons that haue bene thereto indu<g ref="char:EOLhyphen"/>ced, and that haue thereto yeelded. And further to proceede in the execution of ſuch their Commiſ<g ref="char:EOLhyphen"/>ſion as they ſhall bee more particularlie directed by inſtructions annexed to their ſaide Commiſſi<g ref="char:EOLhyphen"/>on.</p>
+            <pb n="9" facs="tcp:777:6"/>
+            <p n="6">6 And furthermore, becauſe it is certainelie knowen and prooued by common experience, vp<g ref="char:EOLhyphen"/>on the apprehenſion of ſundry of the ſayde traite<g ref="char:EOLhyphen"/>rous perſons ſent into the Realme, that they doe come into the ſame by ſecret Creekes, and landing places, diſguiſed, both in their names and perſons: Some in apparell, as Souldiers, Mariners, or Mer<g ref="char:EOLhyphen"/>chants, pretending that they haue bene heretofore taken priſoners, and put into Gallies, and deliuered: Some come in as gentlemen with contrary names, in comely apparell, as though they had trauelled in<g ref="char:EOLhyphen"/>to forreine Countries for knowledge: And general<g ref="char:EOLhyphen"/>ly all, or the moſt part, as ſoone as they are crept in, are cloathed like Gentlemen in apparell, and many as gallants, yea in all colours, and wyth feathers, and ſuch like diſguiſing themſelues, and many of them in their behauiour as Ruffians, farre off to be thought, or ſuſpected to be Friars, Prieſtes, Ieſuits, or Popiſh Schollers. And of theſe many do attempt to reſorte into the Vniuerſities and houſes of Lawe from whence in former times they departed: ma<g ref="char:EOLhyphen"/>ny into ſeruices of Noble men, Ladies and Gentle<g ref="char:EOLhyphen"/>men, with ſuch like fraudulent deuiſes to couer themſelues from all apprehenſion, or ſuſpicion: and yet in proceſſe of time, they doe at length ſo inſinuate themſelues to get themſelues credite wyth hypocriſies, as they infect both the Ma<g ref="char:EOLhyphen"/>ſters and Families, and conſequentlie aduen<g ref="char:EOLhyphen"/>ture alſo, yea ſecretly to vſe their offices of Prieſt<g ref="char:EOLhyphen"/>hoode and reconcilements: Whereby all ſuch as doe retaine them are woorthie to bee ſuſpected, and may bee charged by Lawe to their great dan<g ref="char:EOLhyphen"/>ger.</p>
+            <pb n="10" facs="tcp:777:7"/>
+            <p n="7">7 For auoyding whereof, and eyther to diſco<g ref="char:EOLhyphen"/>uer theſe venemous Vipers, or to chaſe them awaie out of the realme from the infecting of many more, We do order and ſtraightly charge and command all maner of perſons of what degree ſoeuer they bee without any exception, Spirituall, or Temporall, Nobleman, Gentleman, Lorde, Lady, Maſter or Miſtreſſe, or owner whatſoeuer of any houſe, fami<g ref="char:EOLhyphen"/>lie, lodging, yea the very Officers of our owne hou<g ref="char:EOLhyphen"/>ſholde, and Gouernours of any ſocieties, to make a preſent, due, and particular Inquiſition of all ma<g ref="char:EOLhyphen"/>ner of perſons that haue bene admitted, or ſuffered to haue vſual reſort, diet, lodging, reſidence in their houſes, or in any place by their appointment, at any time within the ſpace of one whole yeere now paſt, and ended at Michaelmas laſt: Or that from thence<g ref="char:EOLhyphen"/>foorth haue, or ſhall be admitted, or ſuffered ſo to reſort, eate, lodge, reſide or attend: And by ſuch In<g ref="char:EOLhyphen"/>quiſition and examination, to bee duely and parti<g ref="char:EOLhyphen"/>cularly informed of what condition and Countrey any ſuch perſo<g ref="char:cmbAbbrStroke">̄</g> is, &amp; by what kind of means he hath heretofore liued, &amp; where he hath ſpe<g ref="char:cmbAbbrStroke">̄</g>t his time for the ſpace of one whole yeere before. And likewiſe to know whether he hath vſed, &amp; doth vſe to repaire to the Church at vſuall times to diuine ſeruice, ac<g ref="char:EOLhyphen"/>cording to the Lawes of the realme. And to cauſe thoſe Inquiſitions, with their anſweres to be put in<g ref="char:EOLhyphen"/>to writing particularly, and the ſame to keepe in a maner of a Regiſter or Kalender to be ſhewed when they ſhall be demaunded, that vpon cauſe of ſuſpi<g ref="char:EOLhyphen"/>tion of any ſuch perſon, the ſame may bee further tried by the Commiſſioners of thoſe places, whe<g ref="char:EOLhyphen"/>ther the ſame perſons ſo examined bee loyall Sub<g ref="char:EOLhyphen"/>iectes
+<pb n="11" facs="tcp:777:7"/>or no. And if any ſuch ſhall be found vnwil<g ref="char:EOLhyphen"/>ling to anſwere to ſuch Inquiſition, or ſhal be found by his doubtful anſwere not likely to be an obedient Subiect, the ſame perſon ſhal be ſtayed by the houſ<g ref="char:EOLhyphen"/>holder, or him that ought to haue examined him, and ſhal be ſent to any of the Commiſſioners aboue mentioned next adioyning. And if any perſon ha<g ref="char:EOLhyphen"/>uing gouernement or commaundement ouer anie ſuch ſeruaunt, or reſiant, ſhall be founde not to haue performed the pointes of the foreſaide Inquiſition as is aboue limitted, the ſame ſhall be called to ap<g ref="char:EOLhyphen"/>peare before the ſaide Commiſſioners, or before our priuie Counſell, if the qualitie of the perſon ſhall ſo require, and ſhall be further vſed and orde<g ref="char:EOLhyphen"/>red for ſuch default, as the ſaide Commiſſioners, or our Counſel ſhal haue iuſt cauſe to deale with ſuch a perſon. And finally, wee doe admoniſhe and ſtraightly charge and commaund all perſons that haue had anie intelligence, with any ſuch ſo ſent or come from beyond the Seas to ſuch purpoſes, to detect them to the Commiſſioners in that behalfe to bee aſsigned as aforeſaide, within twentie dayes after the publication hereof, in the Shire, Towne, or Citie, or Porte, wythin the precinctes of the ſame Commiſsion, vpon paine that the offenders therein, ſhall be puniſhed as abettours and main<g ref="char:EOLhyphen"/>teiners of traytours. Wherein wee are reſolutely determined to ſuffer no fauour to bee vſed for anie reſpect of any perſons, qualities, or degrees, nor ſhall allowe, or ſuffer to be allowed any excuſe of negligence for not detection, or for not due exa<g ref="char:EOLhyphen"/>minatio<g ref="char:cmbAbbrStroke">̄</g> of the qualities of ſuch dangerous perſons according to the order here afore preſcribed, being
+<pb n="12" facs="tcp:777:8"/>no wiſe contrary, but agreeable to the moſt ancient laws and good vſages of our Realme, deuiſed for the good order of al maner of ſubiects in euery precinct of any Leete to be foorthcomming to anſwere for their behauior towards the dignitie of our Crowne, and the common peace of our Realme.</p>
+            <closer>
+               <dateline>Giuen at our Mannour of Richmond <date>the xviii. day of October, 1591. in this xxxiii. yeere of our raigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by the Deputies of Christopher Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+            <pb facs="tcp:777:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
